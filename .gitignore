@@ -1,0 +1,5 @@
+/node_modules/
+/documenting_commits/
+.env
+.env.local
+/uploads/
